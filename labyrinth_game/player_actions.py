@@ -1,6 +1,6 @@
 """Действия игрока: ввод, перемещение, инвентарь, использование предметов."""
 
-from labyrinth_game.constants import ROOMS, ROOM_TREASURE
+from labyrinth_game.constants import ROOM_TREASURE, ROOMS
 from labyrinth_game.utils import describe_current_room, random_event
 
 

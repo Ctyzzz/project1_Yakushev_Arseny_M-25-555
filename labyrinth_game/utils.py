@@ -7,11 +7,11 @@ from labyrinth_game.constants import (
     EVENT_PROBABILITY,
     PUZZLE_ALTERNATIVES,
     RANDOM_EVENT_TYPES,
-    ROOMS,
     ROOM_HALL,
     ROOM_LIBRARY,
-    ROOM_TREASURE,
     ROOM_TRAP,
+    ROOM_TREASURE,
+    ROOMS,
     TRAP_DEATH_MODULO,
     TRAP_DEATH_THRESHOLD,
 )
