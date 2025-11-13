@@ -6,8 +6,8 @@
 ## Установка
 
 ```bash
-git clone https://github.com/Ctyzzz/project1_Якушев_Арсений_M25-555.git
-cd project1_Якушев_Арсений_M25-555
+git clone https://github.com/Ctyzzz/project1_Yakushev_Arseny_M25-555.git
+cd project1_Yakushev_Arseny_M25-555
 
 # через poetry
 poetry install
