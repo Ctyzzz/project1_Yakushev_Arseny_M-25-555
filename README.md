@@ -14,7 +14,5 @@ poetry install
 
 # или через Makefile
 make install
-
 ## Demo (asciinema)
-
 [![asciinema demo](https://asciinema.org/a/jDlEH8y1w5jOY4UWV951CfIbO.svg)](https://asciinema.org/a/jDlEH8y1w5jOY4UWV951CfIbO)
